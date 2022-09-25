@@ -6,9 +6,8 @@ params:
   defaultTheme: dark
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
     imageUrl: "logo.png" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Gut Punch Glitter Logo" # optional
     imageWidth: 400 # custom size
     imageHeight: 300 # custom size
     buttons:
