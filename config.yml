@@ -1,0 +1,57 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Gut Punch Glitter
+theme: PaperMod
+params:
+  defaultTheme: dark
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    imageUrl: "logo.png" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 400 # custom size
+    imageHeight: 300 # custom size
+    buttons:
+    - name: 💿🎵 "COLOUR ME" Out Now! 🎵💿
+      url: "https://distrokid.com/hyperfollow/gutpunchglitter/colour-me"
+
+  socialIcons: # optional
+  - name: "bandcamp"
+    url: "https://gutpunchglitter.bandcamp.com/"
+  - name: "instagram"
+    url: "https://www.instagram.com/gutpunchglitter/"
+  - name: "facebook"
+    url: "https://www.facebook.com/gutpunchglitter"
+  - name: "youtube"
+    url: "https://www.youtube.com/channel/UC48D3XVzi24YymV7CduWMuQ"
+  - name: "spotify"
+    url: "https://open.spotify.com/artist/1VVu2MyESOrXWRqAWguxVz"
+  - name: "applemusic"
+    url: "https://music.apple.com/us/artist/gut-punch-glitter/1642282706"
+  - name: "amazon"
+    url: "https://www.amazon.com/music/player/artists/B0BC8PQXH2/gut-punch-glitter"
+  label:
+    text: GUT PUNCH GLITTER
+menu:
+  main:
+  - identifier: home
+    name: HOME
+    url: /
+    weight: -120
+  - identifier: about
+    name: ABOUT
+    pre: <i class='fa fa-heart'></i>
+    url: /about/
+    weight: -80
+  - name: RELEASES
+    pre: <i class='fa fa-road'></i>
+    url: /releases/
+    weight: -110
+  - name: PRESS RELEASES
+    pre: <i class='fa fa-road'></i>
+    url: /press-releases/
+    weight: -100
+  - name: BLOG
+    identifier: blog
+    url: /posts/
+    weight: -90
