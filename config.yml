@@ -56,3 +56,7 @@ menu:
     identifier: blog
     url: /posts/
     weight: -90
+  - name: CONTACT
+    identifier: contact
+    url: /contact/
+    weight: -80
