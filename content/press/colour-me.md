@@ -4,7 +4,7 @@ date: 2022-09-23T08:36:04+01:00
 draft: false
 ---
 
-![Don't Bide Your Time Cover](/colour-me-cover.png)
+![Don't Bide Your Time Cover](colour-me-cover.png)
 
 September 23, 2022 (UK) - English rock duo **Gut Punch Glitter** release the next single from their self titled album out later this year. "**Colour Me**" - out today on all major streaming platforms and mastered by **Pete Maher** (Linkin Park), is an upbeat, simplistic song about boundaries, with punctuating guitars and a catchy hook..
 
