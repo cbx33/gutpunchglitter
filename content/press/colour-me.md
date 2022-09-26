@@ -1,5 +1,5 @@
 ---
-title: "Colour Me"
+title: GUT PUNCH GLITTER RELEASE SECOND SINGLE "COLOUR ME"
 date: 2022-09-23T08:36:04+01:00
 draft: false
 ---
