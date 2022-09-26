@@ -4,7 +4,7 @@ date: 2022-09-02T08:00:04+01:00
 draft: false
 ---
 
-![Don't Bide Your Time Cover](/bide-cover.png)
+![Don't Bide Your Time Cover](../bide-cover.png)
 
 September 2, 2022 (UK) - English rock duo **Gut Punch Glitter** release the first single from the self titled album out later this year. "**Don't Bide Your Time**" - out today on all major streaming platforms and mastered by **Pete Maher** (Linkin Park), is an anthem for the ages with chugging guitars and soaring lead lines supporting the message of pushing on forward and not dwelling on the past.
 
