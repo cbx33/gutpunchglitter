@@ -18,6 +18,6 @@ New Beginnings
 --------------
 Following a chance encounter around fifteen years later between Ben and Pete, the two exchanged a few test messages. When COVID hit, Ben reached out to Pete and suggested he had a desire to make music again. He showed Pete a few tracks he was working on and asked if he'd be able to supply any piano/synth to back some of it up.
 
-Pete recorded a few bits and when Ben asked if Pete had any tracks lying around unused. Pete obliged and added a few more to the mix. For the next year the two communicated almost exclusively over the Signal instance messaging system, transferring ideas in voice messages and sending back and forth bits of MIDI and score.
+Pete recorded a few bits and when Ben asked if Pete had any tracks lying around unused, Pete obliged and added a few more to the mix. For the next year the two communicated almost exclusively over the Signal instance messaging system, transferring ideas in voice messages and sending back and forth bits of MIDI and score.
 
 In September 2022, the duo released their first single from their new venture under the name **Gut Punch Glitter**. While they released the 8 tracks from the album, they were already hard at work producing a second, with 7 new tracks already made up in demo form.
